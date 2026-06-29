@@ -1,5 +1,4 @@
 import React from 'react';
-import Explore from './Explore';
 import Logo from '../Library.svg';
 import { Link } from 'react-router-dom';
 
